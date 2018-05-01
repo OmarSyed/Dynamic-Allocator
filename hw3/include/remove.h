@@ -1,0 +1,1 @@
+void remove_from_list(sf_free_header * header);
